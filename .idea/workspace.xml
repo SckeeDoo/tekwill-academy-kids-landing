@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>we work</find>
+      <find>45</find>
+      <find>rs-parallaxlevel-8rs-parallaxlevel-8</find>
+      <find>slide-3238-layer-4</find>
+      <find>rZ:45</find>
+      <find>counter-feature-box-1</find>
+      <find>Uniqu</find>
+      <find>Clients</find>
+      <find>Creative Pe</find>
+      <find>comments</find>
+      <find>Our s</find>
+      <find>contacte</find>
+      <find>We provide</find>
+      <find>Ruber</find>
+      <find>We</find>
+      <find>small but</find>
+      <find>Everythin</find>
+      <find>Jay</find>
+      <find>Clients W</find>
+      <find>We are</find>
+      <find>Creative</find>
+      <find>We are D</find>
+      <find>Hand cra</find>
+      <find>Meet some</find>
+      <find>Meet</find>
+      <find>list-style-3</find>
+      <find>Working to build a better web design</find>
+      <find>section</find>
+      <find>Unique,</find>
+      <find>Oraru</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/it-park/elements.html" />
+        <option value="$PROJECT_DIR$/template/it-park/style.css" />
+        <option value="$PROJECT_DIR$/template/it-park/style/css/color/purple.css" />
+        <option value="$PROJECT_DIR$/template/it-park/onepage.html" />
+        <option value="$PROJECT_DIR$/template/it-park/index.html" />
+        <option value="$PROJECT_DIR$/public/home-classic-corporate.html" />
+        <option value="$PROJECT_DIR$/public/home-classic-web-agency.html" />
+        <option value="$PROJECT_DIR$/public/blog-post-layout-02.html" />
+        <option value="$PROJECT_DIR$/public/home-classic-one-page.html" />
+        <option value="$PROJECT_DIR$/public/home-creative-designer.html" />
+        <option value="$PROJECT_DIR$/public/home-classic-digital-agency.html" />
+        <option value="$PROJECT_DIR$/public/home-classic-interactive-agency.html" />
+        <option value="$PROJECT_DIR$/public/blog-post-layout-01.html" />
+        <option value="$PROJECT_DIR$/public/home-creative-branding-agency.html" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/public/java-course.html" />
+        <option value="$PROJECT_DIR$/public/sql-course.html" />
+        <option value="$PROJECT_DIR$/public/design-thinking-course.html" />
+        <option value="$PROJECT_DIR$/public/istqb-course.html" />
+        <option value="$PROJECT_DIR$/public/cisco-course.html" />
+        <option value="$PROJECT_DIR$/public/android-course.html" />
+        <option value="$PROJECT_DIR$/public/project-management-course.html" />
+        <option value="$PROJECT_DIR$/public/react-course.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tekwill-academy-landing-master" type="cbb8eebc:String" user="tekwill-academy-landing-master" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public/images/mentors" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/template/it-park/style/images/companies" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="" />
+      <created>1513938784128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513938784128</updated>
+      <workItem from="1513938785626" duration="1590000" />
+      <workItem from="1513941049218" duration="53000" />
+      <workItem from="1513941108043" duration="166000" />
+      <workItem from="1513941351137" duration="396000" />
+      <workItem from="1513941956266" duration="7788000" />
+      <workItem from="1514884252505" duration="227000" />
+      <workItem from="1514897704989" duration="10354000" />
+      <workItem from="1520865274891" duration="27450000" />
+      <workItem from="1521460472082" duration="544000" />
+      <workItem from="1521469789111" duration="3883000" />
+      <workItem from="1521709043239" duration="43877000" />
+      <workItem from="1522843237942" duration="914000" />
+      <workItem from="1522848996993" duration="3892000" />
+      <workItem from="1525942651144" duration="193000" />
+      <workItem from="1525942945627" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="101346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17693523" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/home-creative-small-business.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="10" column="6507" selection-start-line="10" selection-start-column="6507" selection-end-line="10" selection-end-column="6507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blog-post-layout-03.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-digital-agency.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-one-page-gallery.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-blog-clean.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-one-page.html" />
+    <entry file="file://$PROJECT_DIR$/public/instagram.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-01.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-02.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-04.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-05.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-06.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-07.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-03.html" />
+    <entry file="file://$PROJECT_DIR$/public/single-project-page-08.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-creative-studio.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-portfolio-minimal.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-corporate.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-blog-personal.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-interactive-agency.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-start-up.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-creative-business.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-creative-designer.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-creative-branding-agency.html" />
+    <entry file="file://$PROJECT_DIR$/public/lists.html" />
+    <entry file="file://$PROJECT_DIR$/public/team-carousel.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-innovation-agency.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="274" column="48" lean-forward="true" selection-start-line="274" selection-start-column="48" selection-end-line="274" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sql-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/home-classic-web-agency.html" />
+    <entry file="file://$PROJECT_DIR$/public/pricing-table.html" />
+    <entry file="file://$PROJECT_DIR$/public/design-thinking-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/istqb-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/cisco-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/android-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/project-management-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/react-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/java-course.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="980" column="58" selection-start-line="980" selection-start-column="58" selection-end-line="980" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
