@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/partners/atic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/partners/mama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/partners/sweden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/partners/usaid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/partners/utm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/covers/cover-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/covers/cover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +26,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="109" column="66" lean-forward="true" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
+            <state relative-caret-position="267">
+              <caret line="141" column="27" lean-forward="true" selection-start-line="141" selection-start-column="27" selection-end-line="141" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="274" column="23" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -70,9 +90,9 @@
       <find>Meet</find>
       <find>list-style-3</find>
       <find>Working to build a better web design</find>
-      <find>section</find>
       <find>Unique,</find>
       <find>Oraru</find>
+      <find>section</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,7 +115,6 @@
         <option value="$PROJECT_DIR$/public/home-classic-interactive-agency.html" />
         <option value="$PROJECT_DIR$/public/blog-post-layout-01.html" />
         <option value="$PROJECT_DIR$/public/home-creative-branding-agency.html" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/java-course.html" />
         <option value="$PROJECT_DIR$/public/sql-course.html" />
         <option value="$PROJECT_DIR$/public/design-thinking-course.html" />
@@ -104,6 +123,7 @@
         <option value="$PROJECT_DIR$/public/android-course.html" />
         <option value="$PROJECT_DIR$/public/project-management-course.html" />
         <option value="$PROJECT_DIR$/public/react-course.html" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
@@ -148,6 +168,12 @@
               <item name="tekwill-academy-kids-landing" type="b2602c69:ProjectViewProjectNode" />
               <item name="tekwill-academy-kids-landing" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tekwill-academy-kids-landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tekwill-academy-kids-landing" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -184,11 +210,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/covers" />
       <recent name="$PROJECT_DIR$/public/images/partners" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/images/mentors" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
@@ -291,12 +317,12 @@
       <workItem from="1522848996993" duration="3892000" />
       <workItem from="1525942651144" duration="193000" />
       <workItem from="1525942945627" duration="19000" />
-      <workItem from="1525942979243" duration="1750000" />
+      <workItem from="1525942979243" duration="3856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103096000" />
+    <option name="totallyTimeSpent" value="105202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -363,13 +389,6 @@
     <entry file="file://$PROJECT_DIR$/public/lists.html" />
     <entry file="file://$PROJECT_DIR$/public/team-carousel.html" />
     <entry file="file://$PROJECT_DIR$/public/home-classic-innovation-agency.html" />
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="274" column="48" lean-forward="true" selection-start-line="274" selection-start-column="48" selection-end-line="274" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/sql-course.html" />
     <entry file="file://$PROJECT_DIR$/public/home-classic-web-agency.html" />
     <entry file="file://$PROJECT_DIR$/public/pricing-table.html" />
@@ -383,10 +402,30 @@
     <entry file="file://$PROJECT_DIR$/public/images/partners/utm.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="274" column="23" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="109" column="66" lean-forward="true" selection-start-line="109" selection-start-column="66" selection-end-line="109" selection-end-column="66" />
+        <state relative-caret-position="267">
+          <caret line="141" column="27" lean-forward="true" selection-start-line="141" selection-start-column="27" selection-end-line="141" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
