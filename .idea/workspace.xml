@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/cursuri/photoshop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cursuri/milo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/alex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/alexandra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/andrei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/catea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/florin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/mihai-i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/mihai-s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/mentori/victoria.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cursuri/mailo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,18 +29,17 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1283">
-              <caret line="743" column="107" selection-start-line="743" selection-start-column="107" selection-end-line="743" selection-end-column="107" />
+            <state relative-caret-position="879">
+              <caret line="1013" column="52" lean-forward="true" selection-start-line="1013" selection-start-column="52" selection-end-line="1013" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,8 +54,8 @@
       <file leaf-file-name="testimonials.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="818">
-              <caret line="639" column="30" lean-forward="true" selection-start-line="633" selection-start-column="24" selection-end-line="639" selection-end-column="30" />
+            <state relative-caret-position="9585">
+              <caret line="639" column="30" selection-start-line="633" selection-start-column="24" selection-end-line="639" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -56,22 +63,16 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="4110">
               <caret line="274" column="23" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="23" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utm.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/partners/utm.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>we work</find>
       <find>45</find>
       <find>rs-parallaxlevel-8rs-parallaxlevel-8</find>
       <find>slide-3238-layer-4</find>
@@ -101,6 +102,7 @@
       <find>Unique,</find>
       <find>Oraru</find>
       <find>section</find>
+      <find>Milo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,6 +164,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tekwill-academy-landing-master" type="cbb8eebc:String" user="tekwill-academy-landing-master" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,16 +200,12 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="cursuri" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="tekwill-academy-landing-master" type="cbb8eebc:String" user="tekwill-academy-landing-master" />
+              <item name="tekwill-academy-kids-landing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tekwill-academy-kids-landing" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="mentori" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,16 +222,16 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/mentori" />
       <recent name="$PROJECT_DIR$/public/images/cursuri" />
       <recent name="$PROJECT_DIR$/public/images/covers" />
       <recent name="$PROJECT_DIR$/public/images/partners" />
       <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,12 +331,13 @@
       <workItem from="1522848996993" duration="3892000" />
       <workItem from="1525942651144" duration="193000" />
       <workItem from="1525942945627" duration="19000" />
-      <workItem from="1525942979243" duration="9159000" />
+      <workItem from="1525942979243" duration="9350000" />
+      <workItem from="1526023868488" duration="1881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110505000" />
+    <option name="totallyTimeSpent" value="112577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -360,6 +370,39 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11145">
+          <caret line="743" column="107" selection-start-line="743" selection-start-column="107" selection-end-line="743" selection-end-column="107" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9585">
+          <caret line="639" column="30" lean-forward="true" selection-start-line="633" selection-start-column="24" selection-end-line="639" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4110">
+          <caret line="274" column="23" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/home-creative-small-business.html" />
     <entry file="file://$PROJECT_DIR$/public/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -404,33 +447,32 @@
     <entry file="file://$PROJECT_DIR$/public/project-management-course.html" />
     <entry file="file://$PROJECT_DIR$/public/react-course.html" />
     <entry file="file://$PROJECT_DIR$/public/java-course.html" />
-    <entry file="file://$PROJECT_DIR$/public/images/partners/utm.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="4110">
           <caret line="274" column="23" selection-start-line="274" selection-start-column="9" selection-end-line="274" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/testimonials.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="639" column="30" lean-forward="true" selection-start-line="633" selection-start-column="24" selection-end-line="639" selection-end-column="30" />
+        <state relative-caret-position="9585">
+          <caret line="639" column="30" selection-start-line="633" selection-start-column="24" selection-end-line="639" selection-end-column="30" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/cursuri/mailo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1283">
-          <caret line="743" column="107" selection-start-line="743" selection-start-column="107" selection-end-line="743" selection-end-column="107" />
+        <state relative-caret-position="879">
+          <caret line="1013" column="52" lean-forward="true" selection-start-line="1013" selection-start-column="52" selection-end-line="1013" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
