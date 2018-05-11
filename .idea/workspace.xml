@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54142d1a-2ec3-4368-9226-5231fa1c2b54" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/cursuri/milo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/alex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/alexandra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/andrei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/catea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/florin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/mihai-i.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/mihai-s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mentori/victoria.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/cursuri/mailo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="879">
-              <caret line="1013" column="52" lean-forward="true" selection-start-line="1013" selection-start-column="52" selection-end-line="1013" selection-end-column="65" />
+            <state relative-caret-position="178">
+              <caret line="821" lean-forward="true" selection-start-line="821" selection-end-line="821" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -332,12 +321,12 @@
       <workItem from="1525942651144" duration="193000" />
       <workItem from="1525942945627" duration="19000" />
       <workItem from="1525942979243" duration="9350000" />
-      <workItem from="1526023868488" duration="1881000" />
+      <workItem from="1526023868488" duration="2358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112577000" />
+    <option name="totallyTimeSpent" value="113054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -466,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="879">
-          <caret line="1013" column="52" lean-forward="true" selection-start-line="1013" selection-start-column="52" selection-end-line="1013" selection-end-column="65" />
+        <state relative-caret-position="178">
+          <caret line="821" lean-forward="true" selection-start-line="821" selection-end-line="821" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
